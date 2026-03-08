@@ -1,6 +1,3 @@
-# cof-v5
-Creative Oblivion Framework v5.0 —                    Linguistic Risk Monitor &amp; Governed Forgetting
-```markdown
 # Creative Oblivion Framework v5.0
 
 **An Architecture for Continual Learning with Governed Forgetting,
@@ -53,7 +50,6 @@ Real-time detection of semantic drift and four categories of argumentative bias:
 ## DistilLRM — Proof of Concept Results
 
 First empirical results on EDP detection:
-
 ```
 Model:       LinearSVC + TF-IDF (n-gram features)
 Task:        Binary EDP bias classification
@@ -106,8 +102,8 @@ Date:        March 2026
 
 Antonio Luigi Pinna · Independent AI Research
 LinkedIn: linkedin.com/in/antoniopinna
+GitHub: github.com/Seishinnakamoto/cof-v5
 
 ---
 
 *MIT License · Open Source · Contributions welcome*
-```
